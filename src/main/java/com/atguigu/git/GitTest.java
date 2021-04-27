@@ -13,6 +13,7 @@ public class GitTest {
         System.out.println("hello,git version03");
         System.out.println("hello,git version04-hot-fix");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 
 }
